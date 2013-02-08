@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "name": "mocha-blanket-reporter",
+  "description": "Mocha/blanket coverage reporter featuring branchTracking",
+  "keywords": [
+    "mocha",
+    "blanket",
+    "test",
+    "coverage"
+  ],
+  "author": "Alex Seville",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-seville/mocha-blanket-reporter"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "main": "index.js"
+}
